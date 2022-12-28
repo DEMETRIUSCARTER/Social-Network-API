@@ -28,3 +28,6 @@ MONGOOSE
 ## CONTACT
 DEMETRIUS CARTER
 demetriuscarter@gmail.com
+
+THIS CHALLENGE WAS COMPLETED USING THS TUTORIAL
+https://www.youtube.com/watch?v=ldGl6L4Vktk
