@@ -9,6 +9,7 @@
 
 
 ## GENERAL INFORMATION
+An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. This application is currently not functioning properly. 
 
 
 
