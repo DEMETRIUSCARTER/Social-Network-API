@@ -13,11 +13,6 @@ An API for a social network web application where users can share their thoughts
 
 
 
-
-## WEBSITE LINK
-
-
-
 ## TECHNOLOGIES USED
 VISUAL STUDIO CODE,
 HTML,
